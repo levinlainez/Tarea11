@@ -1,0 +1,16 @@
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\bin\Debug\netstandard2.0\EJERCICIO11.deps.json
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\bin\Debug\netstandard2.0\EJERCICIO11.dll
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\bin\Debug\netstandard2.0\EJERCICIO11.pdb
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\obj\Debug\netstandard2.0\EJERCICIO11.csproj.AssemblyReference.cache
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\obj\Debug\netstandard2.0\EJERCICIO11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\obj\Debug\netstandard2.0\Views\ResultPage.xaml.g.cs
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\obj\Debug\netstandard2.0\EJERCICIO11.AssemblyInfoInputs.cache
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\obj\Debug\netstandard2.0\EJERCICIO11.AssemblyInfo.cs
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\obj\Debug\netstandard2.0\EJERCICIO11.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\obj\Debug\netstandard2.0\EJERCICIO11.dll
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\obj\Debug\netstandard2.0\EJERCICIO11.pdb
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\obj\Debug\netstandard2.0\ref\EJERCICIO11.dll
+C:\Users\HP\source\GIT\EJERCICIO11\EJERCICIO11\EJERCICIO11\obj\Debug\netstandard2.0\refint\EJERCICIO11.dll

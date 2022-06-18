@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EJERCICIO11.Views.ResultPage"
+             xmlns:controls="clr-namespace:EJERCICIO11.Controls;assembly=EJERCICIO11"
+             xmlns:prism="http://prismlibrary.com"
+             Title="Resultado de las Operaciones"
+             BackgroundColor="Lavender">
+
+    <Grid Padding="20" RowSpacing="20">
+
+        <controls:StandardEntry
+            Grid.Row="0"
+            FontAttributes="Bold"
+            BorderColor="#5e99d3"
+            BorderThickness="2"
+            CornerRadius="8"
+            FontSize="Medium"
+            x:Name="txtResultado"
+            Keyboard="Numeric"
+            BackgroundColor="white"
+            VerticalOptions="CenterAndExpand" 
+            HorizontalOptions="CenterAndExpand"
+            IsReadOnly="False"
+            TextColor="Black"
+            Padding="13"/>
+        
+    </Grid>
+</ContentPage>
